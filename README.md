@@ -1,4 +1,4 @@
-# A-Cacada-de-Galvares
+# Animalia
 Enredo e Referências do Jogo (A Caçada de Galvares)
 
 ## Integrantes 
