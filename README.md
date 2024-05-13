@@ -15,6 +15,7 @@ Enredo e Referências do Jogo (A Caçada de Galvares)
 ***
 
 ## Link das Wikis 
-- <a href="https://github.com/GuilhermeM777/A-Cacada-de-Galvares/wiki/Sinopse-Geral"> Sinopse Geral
-- <a href="https://github.com/GuilhermeM777/A-Cacada-de-Galvares/wiki/Fases‐Personagens‐Musicas"> Fases (Personagens/Músicas)
-- <a href="https://github.com/GuilhermeM777/A-Cacada-de-Galvares/wiki/Referencias‐do‐Jogo"> Referências usadas no Jogo
+-  [Fase - musícas](https://github.com/GuilhermeM777/Animalia/wiki/Fases%E2%80%90M%C3%BAsicas)
+-  [Personagens](https://github.com/GuilhermeM777/Animalia/wiki/Personagens)
+-  [Referências do jogo](https://github.com/GuilhermeM777/Animalia/wiki/Referencias%E2%80%90do%E2%80%90Jogo)
+-  [Sinopse Geral e história](https://github.com/GuilhermeM777/Animalia/wiki/Sinopse-Geral-e-Historia)
