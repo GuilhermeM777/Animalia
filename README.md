@@ -1,5 +1,5 @@
 # Animalia
-Enredo e Referências do Jogo (A Caçada de Galvares)
+Enredo, Sinopse, Personagens, Fases e tudo envolvido ao Projeto Animalia.
 
 ## Integrantes 
 - Guilherme Matos de Oliveira
