@@ -19,3 +19,5 @@ Enredo, Sinopse, Personagens, Fases e tudo envolvido ao Projeto Animalia.
 -  [Personagens](https://github.com/GuilhermeM777/Animalia/wiki/Personagens)
 -  [Referências do jogo](https://github.com/GuilhermeM777/Animalia/wiki/Referencias%E2%80%90do%E2%80%90Jogo)
 -  [Sinopse Geral e história](https://github.com/GuilhermeM777/Animalia/wiki/Sinopse-Geral-e-Historia)
+## Link das wikis das fases
+- [Fase 4:Sesc Pompeia](https://github.com/GuilhermeM777/Animalia/wiki/Fase-4:Sesc-Pompeia)
