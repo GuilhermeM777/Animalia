@@ -22,5 +22,7 @@ Enredo, Sinopse, Personagens, Fases e tudo envolvido ao Projeto Animalia.
 ## Link das wikis das fases
 - [Fase 3:Cemiterio da Consolação](https://github.com/GuilhermeM777/Animalia/wiki/Fase--3:-O-cemitério-da-Consolação).
 - [Fase 4:Sesc Pompeia](https://github.com/GuilhermeM777/Animalia/wiki/Fase-4:Sesc-Pompeia)
-- [Fase 5:Pacaembu](https://github.com/GuilhermeM777/Animalia/wiki/Fase-5:-Pacaembu) 
+- [Fase 5:Pacaembu](https://github.com/GuilhermeM777/Animalia/wiki/Fase-5:-Pacaembu)
+# Link Jogo
+https://drive.google.com/file/d/13jRu4U9bWpUqy9yyWWjSTJ3VQautOtbV/view?usp=sharing
 
